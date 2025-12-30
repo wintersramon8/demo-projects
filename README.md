@@ -23,3 +23,7 @@ All projects require:
 - Cloudinary configuration (for image uploads)
 
 See each project's README for detailed environment variable setup.
+
+## Development Decisions
+
+For insights into the architectural and technical decisions made during development, see [DEVELOPMENT_DECISIONS.md](./DEVELOPMENT_DECISIONS.md).
