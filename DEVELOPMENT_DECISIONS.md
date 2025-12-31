@@ -122,3 +122,4 @@ This document outlines the key architectural and technical decisions made during
 - Easier debugging with structured error handling
 - Prevents sensitive error details from leaking to users
 
+
